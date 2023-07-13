@@ -1,9 +1,10 @@
-|  Berliana Noviansyah  |  312010373  |
-| Ujian Akhir Semester  |   TI.20.A3  |
-|          Pemrograman Mobile         |
+Moh. Taufik Rauf
+312010151
+TI.20.A.1
+UAS Pemrograman Mobile
 
 
-# 1. Hasil Output
+# 1. Hasil Output dari aplikasi yang dijalankan 
 
-![output1](image/1.jpg)
-![output1](image/2.jpg)
+![gambar_ss1](image/output1.jpg)
+![gambar_ss2](image/output2.jpg)
